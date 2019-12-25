@@ -1,0 +1,69 @@
+*{
+    background: #fafafa;
+}
+.text1
+{
+    width:100%;
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Roboto',sans-serif;
+    font-size: 22px;
+    color: #212121;
+    font-weight: bold;
+}
+.text2
+{
+    width:100%;
+    text-align: center;
+    margin-top: 14px;
+    font-family: 'Roboto',sans-serif;
+    font-size: 14px;
+
+}
+.container {
+    width: 26%;
+    margin: auto;
+    border-radius: 20px;
+    margin-top: 10px;
+    padding: 3px;
+    font-family: 'Roboto',sans-serif;
+}
+    input[type=text] {
+    width: 100%;
+    font-size: 14px;
+    padding: 14.5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 3.5px;
+    resize: vertical;
+    background-color: white;
+}
+.recaptcha
+{
+    width:100%;
+    height: 70px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    margin-top: 10px;
+    font-family: 'Roboto',sans-serif;
+  
+}
+.create
+{
+    width:100%;
+    height: 100px;
+    font-family: 'Roboto',sans-serif;
+    line-height: 10     px;
+    font-size: 12px;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+}
+.text3
+{  
+    width:62%;
+    color:#7f7f7f;
+    float: right;
+}
